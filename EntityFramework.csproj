@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>EfEntityRepositoryBase</Title>
+    <Authors>MuhammadSufyanMalik</Authors>
+    <Company>MalikSoft</Company>
+    <Description>EfEntityRepositoryBase</Description>
+    <Product>EfEntityRepositoryBase</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Entities" Version="1.0.0" />
+    <PackageReference Include="Helper" Version="1.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.9" />
+    <PackageReference Include="Result" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
