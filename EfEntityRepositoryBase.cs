@@ -3,7 +3,7 @@ using Entities;
 using Helper;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.ChangeTracking;
-using Result;
+using Results;
 using System.Linq.Expressions;
 
 namespace EntityFramework

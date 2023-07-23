@@ -9,12 +9,14 @@
     <Company>MalikSoft</Company>
     <Description>EfEntityRepositoryBase</Description>
     <Product>EfEntityRepositoryBase</Product>
+    <Version>1.0.1</Version>
+    <PackageReleaseNotes>updated Results</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Entities" Version="1.0.0" />
     <PackageReference Include="Helper" Version="1.0.0" />
-    <PackageReference Include="Result" Version="1.0.0" />
+    <PackageReference Include="Results" Version="1.0.0" />
   </ItemGroup>
 
 </Project>

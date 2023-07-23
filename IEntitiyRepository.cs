@@ -1,5 +1,5 @@
 ﻿using Entities;
-using Result;
+using Results;
 using System.Linq.Expressions;
 
 namespace EntityFramework
