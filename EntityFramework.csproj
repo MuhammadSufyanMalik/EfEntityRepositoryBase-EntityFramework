@@ -16,7 +16,7 @@
   <ItemGroup>
     <PackageReference Include="Entities" Version="1.0.0" />
     <PackageReference Include="Helper" Version="1.0.0" />
-    <PackageReference Include="Results" Version="1.0.0" />
+    <PackageReference Include="Results" Version="1.0.2" />
   </ItemGroup>
 
 </Project>
